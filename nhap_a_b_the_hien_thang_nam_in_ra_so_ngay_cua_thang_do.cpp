@@ -1,7 +1,7 @@
-/*Vi?t chuong trÏnh th?c hi?n:
+/*Vi?t chuong tr√¨nh th?c hi?n:
 
-Nh?p hai s? nguyÍn a, b c·ch nhau b?i d?u c·ch th? hi?n th·ng v‡ nam
-In ra s? ng‡y c?a th·ng dÛ.*/
+Nh?p hai s? nguy√™n a, b c√°ch nhau b?i d?u c√°ch th? hi?n th√°ng v√† nam
+In ra s? ng√†y c?a th√°ng d√≥.*/
 
 #include <stdio.h>
 
